@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648512551578",
+    "project_id": "dbtodoexam",
+    "storage_bucket": "dbtodoexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648512551578:android:1fc5902d41e1d392effd23",
+        "android_client_info": {
+          "package_name": "com.example.db_todo_study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648512551578-ijcn36fe6jjrbnn6sidtv07hv71307g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIv-f6hpZz9yS3WPzmpCahoQn6T1CPJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648512551578-ijcn36fe6jjrbnn6sidtv07hv71307g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
